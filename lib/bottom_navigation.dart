@@ -29,7 +29,7 @@ class _BotNavState extends State<BotNav> {
 
       bottomNavigationBar: ConvexAppBar(
         style: TabStyle.fixedCircle,
-        backgroundColor: Colors.deepOrange,
+        backgroundColor: Colors.black,
         items: [
 
           TabItem(icon: Icons.favorite, title: "Favorite"),
